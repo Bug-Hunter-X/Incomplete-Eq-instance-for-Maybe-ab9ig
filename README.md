@@ -1,0 +1,1 @@
+This repository contains a Haskell program demonstrating an incomplete Eq instance for the Maybe type. The bug lies in the implementation of the Eq instance, where not all possible comparisons are handled. The solution shows how to correctly define the Eq instance, ensuring complete and accurate comparison of Maybe values.
